@@ -77,8 +77,12 @@
 <br/><br/>
 
 <hr/>
-<h1 align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=500&height=70&lines=Terima+Kasih+%F0%9F%A4%93;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%E2%9D%97%E2%8F%B3%F0%9F%92%A1%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%E2%9C%85%F0%9F%94%81)](https://git.io/typing-svg)
-</h1>
+<div align="center">
+    <img/>
+    <h1>
+        <a href="https://github.com/FarhanGinting">
+            <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=500&height=70&lines=Terima Kasih 🤓;🧑‍💻❗⏳+💡🧑‍💻✅🔁" alt="Typing SVG"/>
+        </a>
+    </h1>
+</div>
 
