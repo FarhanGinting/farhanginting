@@ -44,8 +44,8 @@
 <h2 align="center">⚒️ Bahasa - Kerangka Kerja - Alat ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=,bootstrap,html,css,vscode,github,figma,tailwind," />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,c,java,mysql,git" /><br>
+    <img src="https://skillicons.dev/icons?i=,bootstrap,html,css,vscode,github,figma," />
+    <img src="https://skillicons.dev/icons?i=,javascript,c,java,mysql,git,tailwind," /><br>
 </div>
 
 <br/>
