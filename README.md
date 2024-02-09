@@ -1,10 +1,16 @@
-<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FarhanGinting%2Ffarhanginting&label=Pengujung&labelColor=%236096b4&countColor=%23eee9da" />
+<div align="right">
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FarhanGinting%2Ffarhanginting&label=Pengujung&labelColor=%236096b4&countColor=%23eee9da" />
+</div>
 
-<h1 align="center">
-    
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hai+Semua+%F0%9F%91%8B;Saya+Farhan+Ginting)](https://git.io/typing-svg)
+<div align="center">
+    <img/>
+    <h1>
+        <a href="https://github.com/FarhanGinting">
+            <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hai+Semua+%F0%9F%91%8B;Saya+Farhan+Ginting" alt="Typing SVG"/>
+        </a>
+    </h1>
+</div>
 
-</h1>
 
 
 
