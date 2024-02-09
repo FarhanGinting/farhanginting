@@ -1,5 +1,6 @@
 <div align="right">
-    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FarhanGinting%2Ffarhanginting&label=Pengujung&labelColor=%236096b4&countColor=%23eee9da" />
+   
+   [![Visitors](https://api.visitorbadge.io/api/visitors?path=FarhanGinting%2Ffarhanginting&label=Pengujung&labelColor=%2336bcf7&countColor=%23ffffff)](https://visitorbadge.io/status?path=FarhanGinting%2Ffarhanginting)
 </div>
 
 <div align="center">
