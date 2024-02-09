@@ -1,8 +1,11 @@
 <img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FarhanGinting%2Ffarhanginting&label=Pengujung&labelColor=%236096b4&countColor=%23eee9da" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hai+Semua!+👋;+Saya+Farhan Ginting!;" />
+    
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hai+Semua+%F0%9F%91%8B;Saya+Farhan+Ginting)](https://git.io/typing-svg)
+
 </h1>
+
 
 
 <h3 align="center">Junior Programming dari indonesia</h3>
@@ -44,7 +47,7 @@
 <div align="center">
   <h2>🐍 Kontribusi Saya 🐍</h2>
   <br>
-  <!-- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" /> -->
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/FarhanGinting/farhanginting/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
@@ -68,8 +71,7 @@
 
 <hr/>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Terima+Kasih+🤖;+Atas Kunjungannya+🫡;" />
-</h1>
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=500&height=70&lines=Terima+Kasih+%F0%9F%A4%93;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%E2%9D%97%E2%8F%B3%F0%9F%92%A1%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%E2%9C%85%F0%9F%94%81)](https://git.io/typing-svg)
+</h1>
 
