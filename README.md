@@ -1,18 +1,8 @@
-<div align="right">
-   
-   [![Visitors](https://api.visitorbadge.io/api/visitors?path=FarhanGinting%2Ffarhanginting&label=Pengujung&labelColor=%2336bcf7&countColor=%23ffffff)](https://visitorbadge.io/status?path=FarhanGinting%2Ffarhanginting)
-</div>
+<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FarhanGinting%2Ffarhanginting&label=Pengujung&labelColor=%236096b4&countColor=%23eee9da" />
 
-<div align="center">
-    <img/>
-    <h1>
-        <a href="https://github.com/FarhanGinting">
-            <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hai+Semua+%F0%9F%91%8B;Saya+Farhan+Ginting" alt="Typing SVG"/>
-        </a>
-    </h1>
-</div>
-
-
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hai+Semua!+👋;+Saya+Farhan Ginting!;" />
+</h1>
 
 
 <h3 align="center">Junior Programming dari indonesia</h3>
@@ -21,9 +11,9 @@
 
 <div align="center">
  
-🧑‍🎓 Saya Pelajar Dari Sekolah **SMK Prestasi Prima**
+🧑‍🎓 Saya Pelajar Dari Kampus **Politeknik Negeri Subang**
  
-📖 Saat Ini Sedang Belajar Tentang Framework **Laravel**
+📖 Saat Ini Sedang Belajar Tentang Dasar - Dasar **Javascript** untuk persiapan belajar framework **React.Js**
 
  </div>
  
@@ -34,7 +24,7 @@
   <a href="https://www.linkedin.com/in/farhan-ginting/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://farhanginting.github.io" target="_blank">
+  <!-- <a href="https://farhanginting.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -44,8 +34,8 @@
 <h2 align="center">⚒️ Bahasa - Kerangka Kerja - Alat ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=,bootstrap,html,css,vscode,github,figma," />
-    <img src="https://skillicons.dev/icons?i=,javascript,c,java,mysql,git,tailwind," /><br>
+    <img src="https://skillicons.dev/icons?i=,bootstrap,html,css,vscode,github,figma,tailwind," />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,c,java,mysql,git" /><br>
 </div>
 
 <br/>
@@ -54,7 +44,7 @@
 <div align="center">
   <h2>🐍 Kontribusi Saya 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/FarhanGinting/farhanginting/output/github-contribution-grid-snake.svg" />
+  <!-- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" /> -->
   
   <br/><br/><br/>
 </div>
@@ -77,12 +67,9 @@
 <br/><br/>
 
 <hr/>
-<div align="center">
-    <img/>
-    <h1>
-        <a href="https://github.com/FarhanGinting">
-            <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=500&height=70&lines=Terima Kasih 🤓;🧑‍💻❗⏳+💡🧑‍💻✅🔁" alt="Typing SVG"/>
-        </a>
-    </h1>
-</div>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Terima+Kasih+🤖;+Atas Kunjungannya+🫡;" />
+</h1>
+
+<br/>
 
